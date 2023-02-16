@@ -1,14 +1,12 @@
 #include <stdio.h>
 /**
- *  * main - Entry point
- *   *
- *    * Description: 'finds out if a number is Positive Negative'
- *     *
- *      * Return: 0(Success)
- *       *
- *        */
+ * main - Entry point
+ *
+ *Return: 0(success)
+ *
+*/
 int main(void)
-{
-		puts("\"Programming is like building a multilingual puzzle");
-			return (0);
+{	
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
