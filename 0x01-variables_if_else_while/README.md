@@ -1,10 +1,8 @@
-Task 0 is a program will assign a random number to the variable n each time it is executed.
-Task 1 is a program that assign a random number to the variable n each time it is executed.
-Task 2 is a program that prints the alphabet in lowercase, followed by a new line.
-Task 3 is a a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
-Task 4 is a a program that prints the alphabet in lowercase, followed by a new line.
-Task 5 is a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
-Task 6 is a a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
-Task 7 is a program that prints the lowercase alphabet in reverse, followed by a new line.
-Task 8 is a a program that prints all the numbers of base 16 in lowercase, followed by a new line.
-Task 9 is a program that prints all possible combinations of single-digit numbers.
+readme for  0x01-variables_if_else_while
+Allowed editors: vi, vim, emacs
+All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+All your files should end with a new line
+A README.md file, at the root of the folder of the project
+There should be no errors and no warnings during compilation
+You are not allowed to use system
+Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
