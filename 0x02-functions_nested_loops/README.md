@@ -1,1 +1,1 @@
-Task 0 is a script that prints _putchar
+Task 0 is a program that prints _putchar

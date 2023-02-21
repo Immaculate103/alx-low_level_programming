@@ -1,19 +1,8 @@
 #include "main.h"
-<<<<<<< HEAD
-
 /**
- * main-prints _putchar, followed by a new line
- *
+ * main - print _putchar
  * Return: 0
-*/
-
-=======
-/**
- * main -prints _putchar
- *
- * Return: 0
-*/
->>>>>>> 49afcf7ba048ccdf701de62e0db960fd8a8d6eae
+ */
 int main(void)
 {
 	_putchar('_');
@@ -25,5 +14,4 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	return (0);
 }
