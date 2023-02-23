@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - nmbr fct
+ * more_numbers - 10 times the numbers, from 0 to 14
  *
  * Return: no return
  */
@@ -19,5 +19,5 @@ int i, j;
 			_putchar(j % 10 + '0');
 		}
 			_putchar('\n');
-	}
+		}
 }
