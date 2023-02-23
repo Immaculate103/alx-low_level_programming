@@ -4,8 +4,8 @@
  * Owned by Immaculate
  * Return: no return
  */
+
 void more_numbers(void)
-{
 {
 	int b, i;
 
