@@ -10,7 +10,7 @@ void print_number(int n)
 {
 	if (n < 0)
 	{
-		_putchar(' ');
+		_putchar('-');
 		n = -n;
 	}
 
@@ -18,7 +18,7 @@ void print_number(int n)
 }
 
 /**
- *print_uint - prints an unsigned integer
+ *print_uint - Prints an unsigned integer
  *@n: The unsigned int to print
  */
 void print_uint(unsigned int n)
