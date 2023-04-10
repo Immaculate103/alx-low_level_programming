@@ -7,13 +7,13 @@
 
 #define BUFFER_SIZE 1024
 /**
- * main - Entry point function that copies the content of a file to another file
+ * main - Entry point function that copies the content of files
  *
  * @argc: Number of arguments passed to the program
  * @argv: Array of strings containing the arguments passed to the program
  *
  * Return: 0 on success, exit with error code on failure
- * 
+ *
  */
 int main(int argc, char *argv[])
 {
