@@ -80,7 +80,7 @@ int main(int argc, char *argv[])
 	}
 	if (copy_file(argv[1], argv[2]) == -1)
 	{
-		return (99);
+		return (1);
 	}
 	return (0);
 }
